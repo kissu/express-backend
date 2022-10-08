@@ -1,0 +1,13 @@
+{
+  "name": "express-backend",
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+}
